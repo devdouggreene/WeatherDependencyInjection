@@ -9,39 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WeatherExerciseDependencyInjection.Presentation
 build_property.RootNamespace = WeatherExerciseDependencyInjection.Presentation
-build_property.ProjectDir = C:\development\dotnetcore\asp-net-core\WeatherExerciseDependencyInjection\WeatherExerciseDependencyInjection\
+build_property.ProjectDir = C:\development\dotnetcore\asp-net-core\WeatherDependencyInjection\WeatherExerciseDependencyInjection\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\development\dotnetcore\asp-net-core\WeatherExerciseDependencyInjection\WeatherExerciseDependencyInjection
+build_property.MSBuildProjectDirectory = C:\development\dotnetcore\asp-net-core\WeatherDependencyInjection\WeatherExerciseDependencyInjection
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/development/dotnetcore/asp-net-core/WeatherExerciseDependencyInjection/WeatherExerciseDependencyInjection/Views/Home/Details.cshtml]
+[C:/development/dotnetcore/asp-net-core/WeatherDependencyInjection/WeatherExerciseDependencyInjection/Views/Home/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/development/dotnetcore/asp-net-core/WeatherExerciseDependencyInjection/WeatherExerciseDependencyInjection/Views/Home/Index.cshtml]
+[C:/development/dotnetcore/asp-net-core/WeatherDependencyInjection/WeatherExerciseDependencyInjection/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/development/dotnetcore/asp-net-core/WeatherExerciseDependencyInjection/WeatherExerciseDependencyInjection/Views/Shared/Components/Tile/Default.cshtml]
+[C:/development/dotnetcore/asp-net-core/WeatherDependencyInjection/WeatherExerciseDependencyInjection/Views/Shared/Components/Tile/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGlsZVxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/development/dotnetcore/asp-net-core/WeatherExerciseDependencyInjection/WeatherExerciseDependencyInjection/Views/Shared/_cityWeatherPartialView.cshtml]
+[C:/development/dotnetcore/asp-net-core/WeatherDependencyInjection/WeatherExerciseDependencyInjection/Views/Shared/_cityWeatherPartialView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9jaXR5V2VhdGhlclBhcnRpYWxWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/development/dotnetcore/asp-net-core/WeatherExerciseDependencyInjection/WeatherExerciseDependencyInjection/Views/Shared/_Layout.cshtml]
+[C:/development/dotnetcore/asp-net-core/WeatherDependencyInjection/WeatherExerciseDependencyInjection/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/development/dotnetcore/asp-net-core/WeatherExerciseDependencyInjection/WeatherExerciseDependencyInjection/Views/_ViewImports.cshtml]
+[C:/development/dotnetcore/asp-net-core/WeatherDependencyInjection/WeatherExerciseDependencyInjection/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/development/dotnetcore/asp-net-core/WeatherExerciseDependencyInjection/WeatherExerciseDependencyInjection/Views/_ViewStart.cshtml]
+[C:/development/dotnetcore/asp-net-core/WeatherDependencyInjection/WeatherExerciseDependencyInjection/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\Services\\WeatherExerciseDependencyInjection.Services.csproj": {}
+    "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\Services\\WeatherExerciseDependencyInjection.Services.csproj": {}
   },
   "projects": {
-    "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\DataLayer\\WeatherExerciseDependencyInjection.DataLayer.csproj": {
+    "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\DataLayer\\WeatherExerciseDependencyInjection.DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\DataLayer\\WeatherExerciseDependencyInjection.DataLayer.csproj",
+        "projectUniqueName": "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\DataLayer\\WeatherExerciseDependencyInjection.DataLayer.csproj",
         "projectName": "WeatherExerciseDependencyInjection.DataLayer",
-        "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\DataLayer\\WeatherExerciseDependencyInjection.DataLayer.csproj",
+        "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\DataLayer\\WeatherExerciseDependencyInjection.DataLayer.csproj",
         "packagesPath": "C:\\Users\\garth\\.nuget\\packages\\",
-        "outputPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\DataLayer\\obj\\",
+        "outputPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\Models\\WeatherExerciseDependencyInjection.Models.csproj": {
-                "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\Models\\WeatherExerciseDependencyInjection.Models.csproj"
+              "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\Models\\WeatherExerciseDependencyInjection.Models.csproj": {
+                "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\Models\\WeatherExerciseDependencyInjection.Models.csproj"
               },
-              "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\ServiceContracts\\WeatherExerciseDependencyInjection.Interfaces.csproj": {
-                "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\ServiceContracts\\WeatherExerciseDependencyInjection.Interfaces.csproj"
+              "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\ServiceContracts\\WeatherExerciseDependencyInjection.Interfaces.csproj": {
+                "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\ServiceContracts\\WeatherExerciseDependencyInjection.Interfaces.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\Models\\WeatherExerciseDependencyInjection.Models.csproj": {
+    "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\Models\\WeatherExerciseDependencyInjection.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\Models\\WeatherExerciseDependencyInjection.Models.csproj",
+        "projectUniqueName": "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\Models\\WeatherExerciseDependencyInjection.Models.csproj",
         "projectName": "WeatherExerciseDependencyInjection.Models",
-        "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\Models\\WeatherExerciseDependencyInjection.Models.csproj",
+        "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\Models\\WeatherExerciseDependencyInjection.Models.csproj",
         "packagesPath": "C:\\Users\\garth\\.nuget\\packages\\",
-        "outputPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\Models\\obj\\",
+        "outputPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -100,8 +100,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\ServiceContracts\\WeatherExerciseDependencyInjection.Interfaces.csproj": {
-                "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\ServiceContracts\\WeatherExerciseDependencyInjection.Interfaces.csproj"
+              "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\ServiceContracts\\WeatherExerciseDependencyInjection.Interfaces.csproj": {
+                "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\ServiceContracts\\WeatherExerciseDependencyInjection.Interfaces.csproj"
               }
             }
           }
@@ -135,14 +135,14 @@
         }
       }
     },
-    "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\ServiceContracts\\WeatherExerciseDependencyInjection.Interfaces.csproj": {
+    "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\ServiceContracts\\WeatherExerciseDependencyInjection.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\ServiceContracts\\WeatherExerciseDependencyInjection.Interfaces.csproj",
+        "projectUniqueName": "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\ServiceContracts\\WeatherExerciseDependencyInjection.Interfaces.csproj",
         "projectName": "WeatherExerciseDependencyInjection.Interfaces",
-        "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\ServiceContracts\\WeatherExerciseDependencyInjection.Interfaces.csproj",
+        "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\ServiceContracts\\WeatherExerciseDependencyInjection.Interfaces.csproj",
         "packagesPath": "C:\\Users\\garth\\.nuget\\packages\\",
-        "outputPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\ServiceContracts\\obj\\",
+        "outputPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\ServiceContracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -195,14 +195,14 @@
         }
       }
     },
-    "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\Services\\WeatherExerciseDependencyInjection.Services.csproj": {
+    "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\Services\\WeatherExerciseDependencyInjection.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\Services\\WeatherExerciseDependencyInjection.Services.csproj",
+        "projectUniqueName": "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\Services\\WeatherExerciseDependencyInjection.Services.csproj",
         "projectName": "WeatherExerciseDependencyInjection.Services",
-        "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\Services\\WeatherExerciseDependencyInjection.Services.csproj",
+        "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\Services\\WeatherExerciseDependencyInjection.Services.csproj",
         "packagesPath": "C:\\Users\\garth\\.nuget\\packages\\",
-        "outputPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\Services\\obj\\",
+        "outputPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -224,11 +224,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\DataLayer\\WeatherExerciseDependencyInjection.DataLayer.csproj": {
-                "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\DataLayer\\WeatherExerciseDependencyInjection.DataLayer.csproj"
+              "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\DataLayer\\WeatherExerciseDependencyInjection.DataLayer.csproj": {
+                "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\DataLayer\\WeatherExerciseDependencyInjection.DataLayer.csproj"
               },
-              "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\ServiceContracts\\WeatherExerciseDependencyInjection.Interfaces.csproj": {
-                "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\ServiceContracts\\WeatherExerciseDependencyInjection.Interfaces.csproj"
+              "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\ServiceContracts\\WeatherExerciseDependencyInjection.Interfaces.csproj": {
+                "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\ServiceContracts\\WeatherExerciseDependencyInjection.Interfaces.csproj"
               }
             }
           }

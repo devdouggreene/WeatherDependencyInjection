@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WeatherExerciseDependencyInjection.Interfaces
-build_property.ProjectDir = C:\development\dotnetcore\asp-net-core\WeatherExerciseDependencyInjection\ServiceContracts\
+build_property.ProjectDir = C:\development\dotnetcore\asp-net-core\WeatherDependencyInjection\ServiceContracts\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

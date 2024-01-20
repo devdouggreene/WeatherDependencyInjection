@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7mnnCIV6bad02Bgdm8vJl9HJZnXhwMt2PuKNtsrNnL37SJ5mFlngyHcgVHL8DaL7q+WF1/du3rtP2RifCiOHpg==",
+  "dgSpecHash": "1/pTAXgapmf7dRXRuOvr2SQ1jdl0chRpblEx/C7OLzjVPZgrHfFQf1ta9h0+UKe9Wu4/QwGYe/yYllaKICmjqA==",
   "success": true,
-  "projectFilePath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\Models\\WeatherExerciseDependencyInjection.Models.csproj",
+  "projectFilePath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherDependencyInjection\\Models\\WeatherExerciseDependencyInjection.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

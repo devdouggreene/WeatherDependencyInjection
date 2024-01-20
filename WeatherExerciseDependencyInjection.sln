@@ -5,13 +5,18 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherExerciseDependencyInjection.Presentation", "WeatherExerciseDependencyInjection\WeatherExerciseDependencyInjection.Presentation.csproj", "{56B5F78F-46C2-48C0-A602-86A36FF7905D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherExerciseDependencyInjection.Interfaces", "ServiceContracts\WeatherExerciseDependencyInjection.Interfaces.csproj", "{F042584C-87D2-4DA1-99A7-BE41FCEFD75F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherExerciseDependencyInjection.Interfaces", "ServiceContracts\WeatherExerciseDependencyInjection.Interfaces.csproj", "{F042584C-87D2-4DA1-99A7-BE41FCEFD75F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherExerciseDependencyInjection.Services", "Services\WeatherExerciseDependencyInjection.Services.csproj", "{6D80F2EC-E707-40E1-BFA4-EEC36D9A785C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherExerciseDependencyInjection.Services", "Services\WeatherExerciseDependencyInjection.Services.csproj", "{6D80F2EC-E707-40E1-BFA4-EEC36D9A785C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherExerciseDependencyInjection.DataLayer", "DataLayer\WeatherExerciseDependencyInjection.DataLayer.csproj", "{7B4BB757-A415-4A31-B6DF-1CD66BE03FB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherExerciseDependencyInjection.DataLayer", "DataLayer\WeatherExerciseDependencyInjection.DataLayer.csproj", "{7B4BB757-A415-4A31-B6DF-1CD66BE03FB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherExerciseDependencyInjection.Models", "Models\WeatherExerciseDependencyInjection.Models.csproj", "{6432AE06-2E5B-42A2-8AD3-AE8CA0FC3504}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherExerciseDependencyInjection.Models", "Models\WeatherExerciseDependencyInjection.Models.csproj", "{6432AE06-2E5B-42A2-8AD3-AE8CA0FC3504}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0DE6F848-FD40-425E-BD8A-1C4A45F49368}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
