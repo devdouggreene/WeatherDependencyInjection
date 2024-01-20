@@ -1,18 +1,18 @@
 ﻿@model ICityWeather
-@{
-    ViewBag.IsDetails = true;
-}
+
 <br />
 
 <div class="box w-50 center">
-    <div class="row">
+    <div class="row center" >
        @*  <vc:tile city-weather="@Model"> </vc:tile> *@
         @await Component.InvokeAsync("Tile", Model)
     </div>
 </div>
+<br />
 <div class="text-center">
     <a href="/">Back to Weather Home Page</a>
 </div>
+<br />
 <div class="text-center">
     <button class="button button-blue-back" id="load-weather">Get Weather</button>
     <div class="w-50 center" id="weather-details"></div>

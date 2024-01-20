@@ -2,12 +2,12 @@
 
 
 <div class="box w-100 @Model.TemperatureColor">
-    <div class="column ">
+    <div class="column center w-100" >
         <h2>@Model.CityName</h2>
-        <h4>@Model.CurrentDateTime.Value.TimeOfDay</h4>
+        <h4>@Model.CurrentDateTime</h4>
         @if (ViewBag.IsDetails!=true)
         {
-            <a href="/details/@Model.CityUniqueCode">Details</a>
+           <div class="center w-100"><a class="center w-100" href="/details/@Model.CityUniqueCode">Details</a></div>
         }
     </div>
     <div class="column border-top text-center">

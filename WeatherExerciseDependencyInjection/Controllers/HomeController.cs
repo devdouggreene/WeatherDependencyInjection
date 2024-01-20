@@ -39,6 +39,7 @@ namespace WeatherExerciseDependencyInjection.Presentation.Controllers
         public IActionResult Details(string cityCode)
         {
              ViewBag.Title = "Weather Details";
+            ViewBag.IsDetails = true;
             if (cityCode != null)
             {
                 ICityWeather? cityWeather = _weatherLogic.GetWeatherData().Where(w => w.CityUniqueCode == cityCode).FirstOrDefault();
@@ -58,6 +59,7 @@ namespace WeatherExerciseDependencyInjection.Presentation.Controllers
         public IActionResult GetWeather(string cityCode)
         {
             ViewBag.Title = "Weather Details";
+            ViewBag.IsDetails = true;
             if (cityCode != null)
             {
                 ICityWeather? cityWeather = _weatherLogic. GetWeatherData().Where(w => w.CityUniqueCode == cityCode).FirstOrDefault();
