@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "WeatherExerciseDependencyInjection.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/WeatherExerciseDependencyInjection.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WeatherExerciseDependencyInjection.Interfaces.dll": {}
+        }
+      },
+      "WeatherExerciseDependencyInjection.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "WeatherExerciseDependencyInjection.Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WeatherExerciseDependencyInjection.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WeatherExerciseDependencyInjection.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherExerciseDependencyInjection.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../ServiceContracts/WeatherExerciseDependencyInjection.Interfaces.csproj",
+      "msbuildProject": "../ServiceContracts/WeatherExerciseDependencyInjection.Interfaces.csproj"
+    },
+    "WeatherExerciseDependencyInjection.Models/1.0.0": {
+      "type": "project",
+      "path": "../Models/WeatherExerciseDependencyInjection.Models.csproj",
+      "msbuildProject": "../Models/WeatherExerciseDependencyInjection.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "WeatherExerciseDependencyInjection.Interfaces >= 1.0.0",
+      "WeatherExerciseDependencyInjection.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\garth\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\DataLayer\\WeatherExerciseDependencyInjection.DataLayer.csproj",
+      "projectName": "WeatherExerciseDependencyInjection.DataLayer",
+      "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\DataLayer\\WeatherExerciseDependencyInjection.DataLayer.csproj",
+      "packagesPath": "C:\\Users\\garth\\.nuget\\packages\\",
+      "outputPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\DataLayer\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\garth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\Models\\WeatherExerciseDependencyInjection.Models.csproj": {
+              "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\Models\\WeatherExerciseDependencyInjection.Models.csproj"
+            },
+            "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\ServiceContracts\\WeatherExerciseDependencyInjection.Interfaces.csproj": {
+              "projectPath": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\ServiceContracts\\WeatherExerciseDependencyInjection.Interfaces.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

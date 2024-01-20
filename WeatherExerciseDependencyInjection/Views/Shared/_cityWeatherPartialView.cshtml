@@ -1,0 +1,9 @@
+﻿@model List<ICityWeather>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+      <!--<vc:tile city-weather="item"> </vc:tile>-->
+        @await Component.InvokeAsync("Tile", item)
+    }
+</div> 

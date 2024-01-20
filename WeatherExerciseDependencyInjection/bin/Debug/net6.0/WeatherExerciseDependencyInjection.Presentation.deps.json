@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WeatherExerciseDependencyInjection.Presentation/1.0.0": {
+        "dependencies": {
+          "WeatherExerciseDependencyInjection.Interfaces": "1.0.0",
+          "WeatherExerciseDependencyInjection.Services": "1.0.0"
+        },
+        "runtime": {
+          "WeatherExerciseDependencyInjection.Presentation.dll": {}
+        }
+      },
+      "WeatherExerciseDependencyInjection.DataLayer/1.0.0": {
+        "dependencies": {
+          "WeatherExerciseDependencyInjection.Interfaces": "1.0.0",
+          "WeatherExerciseDependencyInjection.Models": "1.0.0"
+        },
+        "runtime": {
+          "WeatherExerciseDependencyInjection.DataLayer.dll": {}
+        }
+      },
+      "WeatherExerciseDependencyInjection.Interfaces/1.0.0": {
+        "runtime": {
+          "WeatherExerciseDependencyInjection.Interfaces.dll": {}
+        }
+      },
+      "WeatherExerciseDependencyInjection.Models/1.0.0": {
+        "dependencies": {
+          "WeatherExerciseDependencyInjection.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "WeatherExerciseDependencyInjection.Models.dll": {}
+        }
+      },
+      "WeatherExerciseDependencyInjection.Services/1.0.0": {
+        "dependencies": {
+          "WeatherExerciseDependencyInjection.DataLayer": "1.0.0",
+          "WeatherExerciseDependencyInjection.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "WeatherExerciseDependencyInjection.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherExerciseDependencyInjection.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherExerciseDependencyInjection.DataLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherExerciseDependencyInjection.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherExerciseDependencyInjection.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherExerciseDependencyInjection.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

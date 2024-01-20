@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "EUW1blV9ii6ZztUoJCKylrh9gt4F1mpp0S6DDRFiRbE=",
+  "Source": "WeatherExerciseDependencyInjection.Presentation",
+  "BasePath": "_content/WeatherExerciseDependencyInjection.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeatherExerciseDependencyInjection.Presentation\\wwwroot",
+      "Source": "WeatherExerciseDependencyInjection.Presentation",
+      "ContentRoot": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\WeatherExerciseDependencyInjection\\wwwroot\\",
+      "BasePath": "_content/WeatherExerciseDependencyInjection.Presentation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\WeatherExerciseDependencyInjection\\wwwroot\\StyleSheet.css",
+      "SourceId": "WeatherExerciseDependencyInjection.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\development\\dotnetcore\\asp-net-core\\WeatherExerciseDependencyInjection\\WeatherExerciseDependencyInjection\\wwwroot\\",
+      "BasePath": "_content/WeatherExerciseDependencyInjection.Presentation",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

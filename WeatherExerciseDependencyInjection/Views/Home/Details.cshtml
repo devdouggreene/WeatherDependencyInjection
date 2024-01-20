@@ -1,0 +1,42 @@
+﻿@model ICityWeather
+@{
+    ViewBag.IsDetails = true;
+}
+<br />
+
+<div class="box w-50 center">
+    <div class="row">
+       @*  <vc:tile city-weather="@Model"> </vc:tile> *@
+        @await Component.InvokeAsync("Tile", Model)
+    </div>
+</div>
+<div class="text-center">
+    <a href="/">Back to Weather Home Page</a>
+</div>
+<div class="text-center">
+    <button class="button button-blue-back" id="load-weather">Get Weather</button>
+    <div class="w-50 center" id="weather-details"></div>
+</div> 
+
+
+
+<script>
+    document.querySelector("#load-weather").addEventListener("click", async function () {
+        var response = await fetch("/get-weather/@Model.CityUniqueCode", { method: "GET" });
+        var responseBody = await response.text();
+        document.querySelector("#weather-details").innerHTML = responseBody;
+    });
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+

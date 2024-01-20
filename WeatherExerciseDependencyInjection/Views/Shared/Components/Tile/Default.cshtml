@@ -1,0 +1,16 @@
+﻿@model ICityWeather
+
+
+<div class="box w-100 @Model.TemperatureColor">
+    <div class="column ">
+        <h2>@Model.CityName</h2>
+        <h4>@Model.CurrentDateTime.Value.TimeOfDay</h4>
+        @if (ViewBag.IsDetails!=true)
+        {
+            <a href="/details/@Model.CityUniqueCode">Details</a>
+        }
+    </div>
+    <div class="column border-top text-center">
+        <h1> @Model.Temperature<sup class="text-silver">&deg;F</sup></h1>
+    </div>
+</div> 

@@ -1,0 +1,15 @@
+C:\development\dotnetcore\asp-net-core\WeatherExerciseDependencyInjection\Models\obj\Debug\net6.0\WeatherExerciseDependencyInjection.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\development\dotnetcore\asp-net-core\WeatherExerciseDependencyInjection\Models\obj\Debug\net6.0\WeatherExerciseDependencyInjection.Models.AssemblyInfoInputs.cache
+C:\development\dotnetcore\asp-net-core\WeatherExerciseDependencyInjection\Models\obj\Debug\net6.0\WeatherExerciseDependencyInjection.Models.AssemblyInfo.cs
+C:\development\dotnetcore\asp-net-core\WeatherExerciseDependencyInjection\Models\obj\Debug\net6.0\WeatherExerciseDependencyInjection.Models.csproj.CoreCompileInputs.cache
+C:\development\dotnetcore\asp-net-core\WeatherExerciseDependencyInjection\Models\bin\Debug\net6.0\WeatherExerciseDependencyInjection.Models.deps.json
+C:\development\dotnetcore\asp-net-core\WeatherExerciseDependencyInjection\Models\bin\Debug\net6.0\WeatherExerciseDependencyInjection.Models.dll
+C:\development\dotnetcore\asp-net-core\WeatherExerciseDependencyInjection\Models\bin\Debug\net6.0\WeatherExerciseDependencyInjection.Models.pdb
+C:\development\dotnetcore\asp-net-core\WeatherExerciseDependencyInjection\Models\obj\Debug\net6.0\WeatherExerciseDependencyInjection.Models.dll
+C:\development\dotnetcore\asp-net-core\WeatherExerciseDependencyInjection\Models\obj\Debug\net6.0\refint\WeatherExerciseDependencyInjection.Models.dll
+C:\development\dotnetcore\asp-net-core\WeatherExerciseDependencyInjection\Models\obj\Debug\net6.0\WeatherExerciseDependencyInjection.Models.pdb
+C:\development\dotnetcore\asp-net-core\WeatherExerciseDependencyInjection\Models\obj\Debug\net6.0\ref\WeatherExerciseDependencyInjection.Models.dll
+C:\development\dotnetcore\asp-net-core\WeatherExerciseDependencyInjection\Models\bin\Debug\net6.0\WeatherExerciseDependencyInjection.Interfaces.dll
+C:\development\dotnetcore\asp-net-core\WeatherExerciseDependencyInjection\Models\bin\Debug\net6.0\WeatherExerciseDependencyInjection.Interfaces.pdb
+C:\development\dotnetcore\asp-net-core\WeatherExerciseDependencyInjection\Models\obj\Debug\net6.0\WeatherExerciseDependencyInjection.Models.csproj.AssemblyReference.cache
+C:\development\dotnetcore\asp-net-core\WeatherExerciseDependencyInjection\Models\obj\Debug\net6.0\WeatherExerciseDependencyInjection.Models.csproj.CopyComplete
